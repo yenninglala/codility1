@@ -1,1 +1,1 @@
-# codility1
+# https://yenninglala.github.io/codility1/
